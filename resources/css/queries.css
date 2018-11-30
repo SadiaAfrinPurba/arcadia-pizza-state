@@ -1,0 +1,139 @@
+
+@media only screen and (max-width:1200px){
+    
+    .bgimg-text-box {
+        
+        width: 100%;
+        padding: 0.2%;
+        
+    }
+    .row{
+        padding: 0.2%;
+    }
+    
+    
+}
+@media only screen and (max-width:1023px){
+    body{
+        font-size: 18px;
+    }
+    section{
+        padding: 60px 0px;
+    }
+
+    .feature-intro{
+        
+        width: 80%;
+        margin-left: 10%;
+    }
+    .step-box{
+        margin-top: 10px;
+    }
+    .step-box:last-child{
+        
+        margin-top: 10px;
+    }
+    .work-steps{
+        margin-bottom: 40px;
+    }
+    .work-steps:last-of-type{
+        margin-bottom: 60px;
+    }
+    .app-screen{
+        width:60%;
+    }
+    .icon-small{
+        
+        width: 17px;
+        margin-right: 5px;
+    
+    }
+    .city-feature{
+        font-size: 90%;
+    }
+    .plan-box{
+        width: 100%;
+        margin-left: 0%;
+       
+    }
+    .plan-price{
+        font-size: 150%;
+       
+    }
+    .contact-form{
+        width: 80%;
+      
+    }
+
+    
+}
+@media only screen and (max-width:767px){
+    body{
+        font-size: 16px;
+    }
+    section{
+        padding: 30px 0px;
+    }
+    .row,
+    .bgimg-text-box{
+        padding: 0 4%;
+    }
+    .col{
+        width: 100%;
+        margin:0 0 4% 0;
+    }
+    .main-nav{
+        display: none;
+    }
+    h1{
+        font-size: 180%;
+    }
+    h2{
+        font-size: 150%;
+    }
+    .feature-intro{
+        
+        width: 100%;
+        margin-left: 10%;
+    }
+    .step-box:first-child{
+        
+        text-align: center;
+    }
+    .work-steps{
+        margin-bottom: 20px;
+    }
+    .work-steps:last-of-type{
+        margin-bottom: 20px;
+    }
+    .work-steps div{
+ 
+        height: 40px;
+        width: 40px;
+        float: left;
+        font-size: 120%;
+        margin-right: 15px;
+    }
+    .app-screen{
+        width:40%;
+    }
+
+}
+@media only screen and (max-width:480px){
+    section{
+        padding: 25px 0;
+    }
+    .contact-form{
+        width: 100%;
+    }
+    .btn-app img{
+        height: 35px;
+        width: auto;
+        
+    }
+    .btn-full{
+        margin-bottom: 10px;
+        width: 170px;
+        text-align: center;
+    }
+}

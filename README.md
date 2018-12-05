@@ -1,1 +1,1 @@
-https://arcadia-pizza-state.herokuapp.com/
+arcadia-pizza-state
